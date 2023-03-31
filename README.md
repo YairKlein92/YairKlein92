@@ -16,15 +16,7 @@ Hello, I am Csaba Klein, a web developer with a passion for crafting engaging we
   
   ## 📊 Github contributions
     
-<!-- Dark Mode -->
-  <div align="center"> 
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-      <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YairKlein92&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=ayu-mirage&bg_color=030917#gh-dark-mode-only"   alt="Csaba's Language stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-      <img height=185 src="https://github-readme-stats.vercel.app/api?username=YairKlein92&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&show_icons=true&theme=ayu-mirage&bg_color=030917#gh-dark-mode-only" alt="Csaba's Github stats" />
-    </a>
-  </div>
+
   <!-- Light Mode -->
   <div align="center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
