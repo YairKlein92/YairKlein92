@@ -10,9 +10,9 @@ Hello, I am Csaba Klein, a web developer with a passion for crafting engaging we
   
 
   
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,react,nextjs,python,html,css,sass,figma,postgres,postman,jest&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,react,nextjs,python,django,html,css,sass,figma,postgres,postman,jest&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
   
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,react,nextjs,python,html,css,sass,tailwind,figma,postgres,postman,jest&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,react,nextjs,python,django,html,css,sass,tailwind,figma,postgres,postman,jest&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
   
   ## 📊 Github contributions
     
