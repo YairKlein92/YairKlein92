@@ -1,8 +1,8 @@
 # 🧗‍♂️ Csaba
+(He/Him They/Them) &nbsp;&nbsp; <br /> 🏳️‍🌈 Pride 🏳️‍🌈 &nbsp;&nbsp; 
+<br /> <br />
 **`Web Developer`**
-
 Hello, I am Csaba Klein, a web developer with a passion for crafting engaging websites and complex databases. I'm very passionate about solving complicated problems and creating software solutions.🤖 When I'm not coding, you can usually find me exploring the outdoors, experimenting with new recipes in the kitchen, or working out in the gym.
-
 <br />
 
  
